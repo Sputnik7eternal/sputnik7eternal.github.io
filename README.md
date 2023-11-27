@@ -1,2 +1,3 @@
 # sputnik7eternal.github.io
-My page
+Welcome
+![Sputnik GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
